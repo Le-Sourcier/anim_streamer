@@ -1,4 +1,4 @@
-# Anim Streamer
+# Anim Streamer GitHub Introduction
 
 Welcome to Anim_Streamer, the ultimate solution for streaming premium manga content from Crunchyroll without the need for a subscription or account. Follow these steps to seamlessly set up Anim_Streamer on your local machine:
 
@@ -32,6 +32,9 @@ Welcome to Anim_Streamer, the ultimate solution for streaming premium manga cont
      yarn install
      ```
 
+4. **Install MPV Player:**
+   - Anim_Streamer currently supports MPV as the default player. Ensure it is installed on your system. If not, install it using the appropriate package manager for your platform.
+
 ## Usage
 
 1. **Start the Server:**
@@ -43,6 +46,6 @@ Welcome to Anim_Streamer, the ultimate solution for streaming premium manga cont
 2. **Follow the On-Screen Instructions:**
    - Once the server is running, follow the on-screen prompts. Provide details such as the anime name, season, episode, and language preference (original audio or dubbing in languages such as [Fr, Es, En, Ru...]).
 
-**Enjoy your seamless anime streaming experience with Anim_Streamer!**
+**Enjoy your seamless anime streaming experience with Anim Streamer!**
 
-Feel free to reach out if you have any questions or encounter issues during the installation process.
+Feel free to follow me on GitHub for more code sharing and updates. Your support and feedback are appreciated!
