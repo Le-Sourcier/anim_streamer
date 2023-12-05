@@ -1,0 +1,24 @@
+{
+  "name": "moe_catalog",
+  "version": "1.0.0",
+  "description": "Catalog for anime bruhh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "anime",
+    "stremio",
+    "addon",
+    "moe"
+  ],
+  "author": "daniwalter001",
+  "license": "ISC",
+  "dependencies": {
+    "chromecast-api": "^0.4.2",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2",
+    "prompt-sync": "^4.2.0",
+    "readline": "^1.3.0"
+  }
+}
